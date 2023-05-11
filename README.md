@@ -1,2 +1,2 @@
-# CRUD
- Crud tkinter + sqlite3
+# Calcudora
+ Esta é uma calculadora feita em Python muito simples..
